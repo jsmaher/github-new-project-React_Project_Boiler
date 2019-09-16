@@ -17,16 +17,6 @@ import image9 from './../../images/nload.jpg'
 import image10 from './../../images/download (8).jpg'
 import image0 from './../../images/andrewwattsadinsert-1.jpg'
 
-
-
-
-
-
-
-
-
- 
-
 export default class Home extends React.Component{
     constructor(){
         super();
